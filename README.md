@@ -2,7 +2,7 @@
 배우고 싶은 것이 너무나도 많은 학생 개발자 김도훈입니다.
 
 
-[![kdhkr's Github stats](https://stats.vc.kdh.io/api?username=kdhkr)](https://github.com/kdhkr/github-stats)
+[![kdhkr's Github stats](https://github-readme-stats.vercel.app/api?username=kdhkr)](https://kdh.io)
 
 <!--
 **hatty163/hatty163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
